@@ -1,0 +1,30 @@
+
+
+.wrapper {
+  	padding: ;
+  
+}
+#content {
+  	
+} 	
+#relative {
+	position: relative;
+  	background: #eee;
+  	padding: 20px;
+  	text-align: center;
+  	height: 200px;
+  	margin-bottom: 200px;
+}
+#absoulute {
+	width: 250px;
+	position: absolute;
+	background: #999;
+	padding: 20px;
+	bottom: 0;
+	right: -30px;
+	text-align: center;
+}
+#fixed {
+  	position: fixed;
+
+}
